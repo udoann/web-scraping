@@ -1,17 +1,5 @@
 [
   {
-    "title": "Academy Award Review of",
-    "Production company": "Walt Disney Productions",
-    "Distributed by": "United Artists",
-    "Release date": [
-      "May 19, 1937"
-    ],
-    "Running time": "41 minutes (74 minutes 1966 release)",
-    "Country": "United States",
-    "Language": "English",
-    "Box office": "$45.472"
-  },
-  {
     "title": "Snow White and the Seven Dwarfs",
     "Directed by": [
       "David Hand",
@@ -8637,10 +8625,7 @@
   },
   {
     "title": "Endurance",
-    "Directed by": [
-      "Leslie Woodhead",
-      "Bud Greenspan"
-    ],
+    "Directed by": "Leslie Woodhead",
     "Produced by": [
       "Terrence Malick",
       "Max Palevsky",
@@ -8662,8 +8647,9 @@
     "Music by": "John Powell",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "May 14, 1999"
+    "Release dates": [
+      "September 1998",
+      "(Telluride Film Festival)"
     ],
     "Running time": "83 minutes",
     "Countries": [
@@ -10638,7 +10624,7 @@
     "Release date": [
       "November 26, 2003"
     ],
-    "Running time": "86 minutes",
+    "Running time": "87 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million",
@@ -14592,7 +14578,7 @@
       "Baby Harshitha"
     ],
     "Cinematography": "Soundarrajan",
-    "Edited by": "Sravan Katikaneni",
+    "Edited by": "Shravan Katikaneni",
     "Music by": [
       "Salim–Sulaiman",
       "M. M. Keeravani",
@@ -19326,7 +19312,7 @@
       "November 3, 2021 ( El Capitan Theatre )",
       "November 24, 2021 (United States)"
     ],
-    "Running time": "109 minutes",
+    "Running time": "102 minutes",
     "Country": "United States",
     "Languages": [
       "English",
@@ -19762,7 +19748,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$224.7 million"
+    "Box office": "$225.4 million"
   },
   {
     "title": "Rise",
@@ -19940,9 +19926,7 @@
     "Music by": "Alan Menken",
     "Production companies": [
       "Walt Disney Pictures",
-      "Josephson Entertainment",
-      "Andalasia Productions",
-      "Right Coast Productions"
+      "Josephson Entertainment"
     ],
     "Distributed by": "Disney+",
     "Release date": [
@@ -20059,41 +20043,6 @@
       "Canada",
       "United States"
     ],
-    "Language": "English"
-  },
-  {
-    "title": "Peter Pan & Wendy",
-    "Directed by": "David Lowery",
-    "Screenplay by": [
-      "David Lowery",
-      "Toby Halbrooks"
-    ],
-    "Based on": [
-      "Disney 's Peter Pan",
-      "Peter and Wendy by J. M. Barrie"
-    ],
-    "Produced by": [
-      "Jim Whitaker",
-      "Joe Roth"
-    ],
-    "Starring": [
-      "Alexander Molony",
-      "Ever Anderson",
-      "Yara Shahidi",
-      "Molly Parker",
-      "Alan Tudyk",
-      "Jim Gaffigan",
-      "Jude Law"
-    ],
-    "Cinematography": "Bojan Bazelli",
-    "Music by": "Daniel Hart",
-    "Production companies": [
-      "Walt Disney Pictures",
-      "Whitaker Entertainment",
-      "Roth/Kirschenbaum Films"
-    ],
-    "Distributed by": "Disney+",
-    "Country": "United States",
     "Language": "English"
   },
   {
@@ -20588,6 +20537,41 @@
       "2018",
       "Tony Award for Best Revival of a Musical"
     ]
+  },
+  {
+    "title": "Peter Pan & Wendy",
+    "Directed by": "David Lowery",
+    "Screenplay by": [
+      "David Lowery",
+      "Toby Halbrooks"
+    ],
+    "Based on": [
+      "Disney 's Peter Pan",
+      "Peter and Wendy by J. M. Barrie"
+    ],
+    "Produced by": [
+      "Jim Whitaker",
+      "Joe Roth"
+    ],
+    "Starring": [
+      "Alexander Molony",
+      "Ever Anderson",
+      "Yara Shahidi",
+      "Molly Parker",
+      "Alan Tudyk",
+      "Jim Gaffigan",
+      "Jude Law"
+    ],
+    "Cinematography": "Bojan Bazelli",
+    "Music by": "Daniel Hart",
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Whitaker Entertainment",
+      "Roth/Kirschenbaum Films"
+    ],
+    "Distributed by": "Disney+",
+    "Country": "United States",
+    "Language": "English"
   },
   {
     "title": "Robin Hood",
